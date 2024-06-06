@@ -1,0 +1,13 @@
+.plante-list img{
+    display: inline-block;
+    margin-right: 1px;
+}
+
+.plante-list {
+    display: flex;
+    justify-content: space-between; 
+}
+
+.checkbox{
+    margin-left: 1%;
+}
